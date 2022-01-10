@@ -16,6 +16,6 @@ class MyClient(discord.Client):
             
 
 client = MyClient()
-client.run('') # Token of bot #
+client.run(' ') # Token of bot #
 
 client.run(bottoken)
